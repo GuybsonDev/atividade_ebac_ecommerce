@@ -2,6 +2,9 @@
 
 Este repositório contém a Análise Exploratória de Dados (EDA) do dataset Olist, utilizando **MySQL local**.
 
+Link base de dados Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Link dashboard Looker Studio: https://lookerstudio.google.com/reporting/678ffc40-282d-4f18-993f-89d30416f6cf
+
 ## Conteúdo principal
 - Notebook: `ecommerce.ipynb`
 - Dados (CSV): pasta `base_ecommerce/`
