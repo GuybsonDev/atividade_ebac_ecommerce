@@ -8,7 +8,6 @@ Link dashboard Looker Studio: https://lookerstudio.google.com/reporting/678ffc40
 
 ## Conteúdo principal
 - Notebook: `ecommerce.ipynb`
-- Dados (CSV): pasta `base_ecommerce/`
 - Scripts auxiliares: `load_ecommerce.sql`, `fix_translation_col.sql`
 
 ## Escopo da análise
